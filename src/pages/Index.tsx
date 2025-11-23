@@ -38,9 +38,7 @@ const Index = () => {
         <div className="container mx-auto text-center animate-fade-in">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-5xl md:text-6xl font-heading font-bold mb-6 text-foreground">Логоритмика детям. Просто. Понятно. Позитивно.</h2>
-            <p className="text-xl md:text-2xl text-muted-foreground mb-8">
-              Помогаю детям развивать речь через движение, музыку и игру
-            </p>
+            <p className="text-xl md:text-2xl text-muted-foreground mb-8">Помогаем детям развивать речь через движение, музыку и игры</p>
             <Button 
               size="lg" 
               className="text-lg px-8 py-6 rounded-full animate-bounce-gentle"
