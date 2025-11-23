@@ -13,7 +13,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-heading font-bold text-primary">
-              Логоритмика детям. Просто. Понятно. Позитивно.
+              Логоритмика 🎵
             </h1>
             <div className="hidden md:flex gap-6">
               <button onClick={() => scrollToSection('logorhythmic')} className="text-sm font-medium hover:text-primary transition-colors">
