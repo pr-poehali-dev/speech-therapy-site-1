@@ -12,9 +12,7 @@ const Index = () => {
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-border shadow-sm">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-heading font-bold text-primary">
-              Логоритмика 🎵
-            </h1>
+            <h1 className="text-2xl font-heading font-bold text-primary">Логоритмика детям🎵</h1>
             <div className="hidden md:flex gap-6">
               <button onClick={() => scrollToSection('logorhythmic')} className="text-sm font-medium hover:text-primary transition-colors">
                 Логоритмика
@@ -39,9 +37,7 @@ const Index = () => {
       <section className="py-20 px-4">
         <div className="container mx-auto text-center animate-fade-in">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-5xl md:text-6xl font-heading font-bold mb-6 text-foreground">
-              Логопедические занятия<br />для детей в Свердловской области
-            </h2>
+            <h2 className="text-5xl md:text-6xl font-heading font-bold mb-6 text-foreground">Логоритмика детям. Просто. Понятно. Позитивно.</h2>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">
               Помогаю детям развивать речь через движение, музыку и игру
             </p>
