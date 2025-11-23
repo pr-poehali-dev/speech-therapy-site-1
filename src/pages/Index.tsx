@@ -294,8 +294,8 @@ const Index = () => {
                       <path d="M25.2 35.9c11.2 0 17.3-9.3 17.3-17.3 0-.3 0-.5 0-.8.8-.6 1.5-1.3 2-2.1-.7.3-1.5.5-2.3.6.8-.5 1.4-1.3 1.7-2.2-.8.5-1.6.8-2.5 1-.7-.8-1.8-1.3-2.9-1.3-2.2 0-4 1.8-4 4 0 .3 0 .6.1.9-3.3-.2-6.2-1.7-8.2-4.1-.3.6-.5 1.3-.5 2 0 1.4.7 2.6 1.8 3.3-.7 0-1.3-.2-1.8-.5v.1c0 1.9 1.4 3.5 3.2 3.9-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2 2.8 3.8 2.8-1.4 1.1-3.1 1.7-5 1.7-.3 0-.6 0-1-.1 1.8 1.2 4 1.8 6.3 1.8"/>
                     </svg>
                   </div>
-                  <h3 className="text-xl font-heading font-semibold mb-2">ВК</h3>
-                  <a href="https://vk.com/your-group" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-lg">
+                  <h3 className="text-xl font-heading font-semibold mb-2">ВКонтакте</h3>
+                  <a href="https://vk.com/logokidsppp?from=groups" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-lg">
                     Моё сообщество
                   </a>
                 </CardContent>
@@ -307,7 +307,7 @@ const Index = () => {
                     <Icon name="MessageCircle" size={32} className="text-white" />
                   </div>
                   <h3 className="text-xl font-heading font-semibold mb-2">WhatsApp</h3>
-                  <a href="https://wa.me/79000000000" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-lg">
+                  <a href="https://wa.me/79049829388" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-lg">
                     Написать в WhatsApp
                   </a>
                 </CardContent>
